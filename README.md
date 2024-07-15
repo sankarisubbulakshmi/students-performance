@@ -18,7 +18,7 @@ Column names and details:
 14. GPA - Grade Point Average on a scale from 2.0 to 4.0, influenced by study habits, parental involvement, and extracurricular activities.
 15. GradeClass - grades based on GPA, it ranges 0 to 4, where 0: 'A' (GPA >= 3.5), 1: 'B' (3.0 <= GPA < 3.5), 2: 'C' (2.5 <= GPA < 3.0), 3: 'D' (2.0 <= GPA < 2.5), 4: 'F' (GPA < 2.0)
 
-From this dataset i learned this dataset is supervised dataset because it has a clear target column which is GradeClass
+From this dataset i learned this dataset is supervised learning because it has a clear target column which is GradeClass
 Target - GradeClass, and the target column is in category type it has coded value so it is category dataset.
     
 
