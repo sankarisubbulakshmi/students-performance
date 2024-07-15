@@ -1,8 +1,11 @@
-This dataset contains information about 2392 high school students performance.
-It has 15 columns that contains each student informations.
+# Students Performance Dataset
 
-Column names and details:
-1. StudentID - Its a unique id for each student
+## Overview
+This dataset contains information about 2,392 high school students' performance. 
+It has 15 columns, each representing different attributes of the students.
+
+### Column names and details:
+1. StudentID - A unique id for each student
 2. Age - The age of the students ranges from 15 to 18 years.
 3. Gender - Gender of the students, in this dataset 0 represents Male and 1 represents Female.
 4. Ethnicity - The ethnicity of the student coded from 0 to 3, where 0: Caucasian, 1: African American, 2: Asian, 3: Other
@@ -18,7 +21,12 @@ Column names and details:
 14. GPA - Grade Point Average on a scale from 2.0 to 4.0, influenced by study habits, parental involvement, and extracurricular activities.
 15. GradeClass - grades based on GPA, it ranges 0 to 4, where 0: 'A' (GPA >= 3.5), 1: 'B' (3.0 <= GPA < 3.5), 2: 'C' (2.5 <= GPA < 3.0), 3: 'D' (2.0 <= GPA < 2.5), 4: 'F' (GPA < 2.0)
 
-From this dataset i learned this dataset is supervised learning because it has a clear target column which is GradeClass
-Target - GradeClass, and the target column is in category type it has coded value so it is category dataset.
+## Learning Outcomes
+From this dataset, I learned that it is suitable for supervised learning because it has a clear target column, which is GradeClass. 
+The target column is categorical, with values indicating different grade categories.
+
+## Dataset Source
+This dataset was obtained from [Kaggle](https://www.kaggle.com/).
+
     
 
